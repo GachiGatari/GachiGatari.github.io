@@ -1,5 +1,8 @@
 .test{
-  color: green;
+  color: black;
   font-family: Arial,sans-serif ;
   font-size: 55px;
+  /*background-color: black;*/
+  background-image: url('images/cs.jpg');
+  background-size: contain;
 }
